@@ -5,7 +5,7 @@ import com.tool.dto.Table;
 import java.util.List;
 
 /**
- * Created by XiuYin.Cui on 2018/1/12.
+ * Created by zhangben on 2018/2/6.
  */
 public interface TableService {
     List<Table> tableList();

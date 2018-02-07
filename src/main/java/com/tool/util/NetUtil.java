@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by XiuYin.Cui on 2018/1/16.
+ * Created by zhangben on 2018/2/6.
  */
 public class NetUtil {
     public static CloseableHttpClient httpClient = HttpClientBuilder.create().build();
